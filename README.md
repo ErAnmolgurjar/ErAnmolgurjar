@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ErAnmolgurjar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ErAnmolgurjar/ErAnmolgurjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Engineering enthusiast with knowledge in coding 
+and design. Proficient in C, Python, HTML, CSS, 
+JavaScript, PHP and MySQL. Always eager to learn 
+new things, learn new software and technologies
+quickly. Enjoy taking on new challenges to push 
+myself outside of my comfort zone.
