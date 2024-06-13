@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eranmolgurjar.github.io/](https://eranmolgurjar.github.io/)
 
-- 💬 Ask me about **C, C#, Python, PHP, HTML, CSS, JavaScript, MERN Stack, and more.**
+- 💬 Ask me about **Python, C, C#, PHP, HTML, CSS, JavaScript, MERN Stack, and more.**
 
 - 📫 How to reach me **eranmolgurjar@gmail.com**
 
