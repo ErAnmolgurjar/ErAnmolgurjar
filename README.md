@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
+<img src="https://media.licdn.com/dms/image/D5616AQFgnG9HIWyo-A/profile-displaybackgroundimage-shrink_350_1400/0/1721845834710?e=1727308800&v=beta&t=T8OjXIBa7oX3vEEWnujcqBdWzr18j1WPUUWK3kc1aqY">
 <h3 align="center">Software Developer | Pushing Boundaries in Coding | Problem Solver | I help Achieve Efficiency and Innovation through Robust Applications by Crafting User-friendly Software, Websites and Powerful Backend Systems</h3>
 
 - 🌱 I’m currently learning **AI & ML**
