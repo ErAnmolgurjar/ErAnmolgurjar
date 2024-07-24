@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://eranmolgurjar.github.io/](https://eranmolgurjar.github.io/)
 
-- 💬 Ask me about **Python, C, C#, PHP, HTML, CSS, JavaScript, MERN Stack, and more.**
+- 💬 Ask me about **Python, Django, Flask, API, React, Machine Learning, HTML, CSS, JavaScript, MERN Stack, and more.**
 
 - 📫 How to reach me **eranmolgurjar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AKOeihfkvzShlJ3Yi-aopgW-FPTh5-Cv/view](https://drive.google.com/file/d/1AKOeihfkvzShlJ3Yi-aopgW-FPTh5-Cv/view)
+- 📄 Know about my experiences visit [linkedin](https://www.linkedin.com/in/eranmol/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
