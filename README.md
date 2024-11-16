@@ -10,7 +10,7 @@
 
 - 📫 You can reach me **eranmolgurjar@gmail.com**
 
-- 📄 Know about my experiences and connect with me visit [linkedin](https://www.linkedin.com/in/eranmol/)
+- 📄 Know about my experiences and connect with me on [linkedin](https://www.linkedin.com/in/eranmol/)
 
 
 # Languages and Tools:
